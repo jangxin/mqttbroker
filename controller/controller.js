@@ -4,7 +4,7 @@ var pubsubsettings = {
     type: 'mqtt',
     json: true,
     mqtt: require('mqtt'),
-    host: '172.31.46.231',
+    host: 'localhost',
     port: 1883
 };
 
